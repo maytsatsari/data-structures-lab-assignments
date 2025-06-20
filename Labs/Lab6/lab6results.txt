@@ -1,0 +1,19 @@
+
+
+Test Binary Search Tree
+number of keys n = 16
+construction time = 0
+tree height = 5
+search time = 0
+
+Test Binary Search Tree
+number of keys n = 1000
+construction time = 31
+tree height = 36
+search time = 3
+
+Test Binary Search Tree
+number of keys n = 1000000
+construction time = 18127
+tree height = 276
+search time = 7729
