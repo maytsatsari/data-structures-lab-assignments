@@ -1,0 +1,22 @@
+
+Test SimpleUnionFind
+Number of items = 10000
+number of unites = 47574
+total time = 777
+
+Test UnionFind
+Number of items = 10000
+number of unites = 47574
+total time = 470
+
+Test SimpleUnionFind
+Number of items = 20000
+number of unites = 92358
+total time = 4375
+
+Test UnionFind
+Number of items = 20000
+number of unites = 92358
+total time = 2207
+
+
