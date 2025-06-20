@@ -1,0 +1,27 @@
+Test WordList
+linked list construction time = 3301
+number of linked list nodes = 8111
+
+contains 'and' 3000 times
+contains 'astonished' 3 times
+contains 'boat' 4 times
+contains 'path' 8 times
+contains 'the' 3681 times
+contains 'train' 0 times
+contains 'tom' 673 times
+contains 'wondered' 12 times
+
+sorting words in lexicographical order
+first 10 words in lexicographical order are:
+a aadead abandoned abash abashed abide ablaze able aboard abounding 
+100th word in lexicographical order = afloat(1)
+
+sorting list in decreasing word frequency order
+the 10 most frequent words are:
+the and a to of he was it in that 
+100th most frequent word = ever(99)
+
+deleting 'ever'
+next most frequent word after 'ever' = good(97)
+
+total running time = 4593
